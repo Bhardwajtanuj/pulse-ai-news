@@ -247,5 +247,5 @@ ai-news-dashboard/
 
 ## Author
 
-Shrashti Singhal — built for Culinda GenAI Intern assignment, March 2026.
+Tanuj Bhardwaj — built for Culinda GenAI Intern assignment, March 2026.
 # pulse-ai-news
